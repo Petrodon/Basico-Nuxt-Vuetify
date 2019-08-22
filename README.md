@@ -1,6 +1,6 @@
 # test_nuxt
 
-> 
+> My exceptional Nuxt.js project
 
 ## Build Setup
 
@@ -20,4 +20,3 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-"# Basico-Nuxt" 
